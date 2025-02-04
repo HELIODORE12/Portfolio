@@ -50,6 +50,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-color: #98c3ff;
 }
 
 h1,
